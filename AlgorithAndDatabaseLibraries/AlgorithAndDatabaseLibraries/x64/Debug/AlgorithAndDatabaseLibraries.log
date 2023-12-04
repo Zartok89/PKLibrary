@@ -1,0 +1,4 @@
+﻿  AlgorithmAndDatabaseLibraries.cpp
+C:\Users\perco\OneDrive\Utdanning\Høyskolen I Innlandet\3. Semester\Algoritmer og Datastrukturer\Library\AlgorithAndDatabaseLibraries\AlgorithAndDatabaseLibraries\AlgorithmAndDatabaseLibraries.cpp(22,82): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\perco\OneDrive\Utdanning\Høyskolen I Innlandet\3. Semester\Algoritmer og Datastrukturer\Library\AlgorithAndDatabaseLibraries\AlgorithAndDatabaseLibraries\AlgorithmAndDatabaseLibraries.cpp(43,82): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  AlgorithAndDatabaseLibraries.vcxproj -> C:\Users\perco\OneDrive\Utdanning\Høyskolen I Innlandet\3. Semester\Algoritmer og Datastrukturer\Library\AlgorithAndDatabaseLibraries\x64\Debug\AlgorithAndDatabaseLibraries.exe
